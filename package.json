@@ -1,0 +1,29 @@
+{
+  "name": "car_oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/car.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saheedt/CAR_OOP.git"
+  },
+  "keywords": [
+    "car",
+    "oop"
+  ],
+  "author": "saheed ajibulu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saheedt/CAR_OOP/issues"
+  },
+  "homepage": "https://github.com/saheedt/CAR_OOP#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
